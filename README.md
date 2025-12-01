@@ -1,5 +1,9 @@
 # MERN Travel Planner
 
+A full-stack **MERN** application for managing cities, routes, and visualizing the shortest travel paths between destinations.  
+Includes authentication, admin tools, route creation, and a D3-powered interactive graph.
+
+
 ## Quick Start
 
 1. Install MongoDB locally and make sure it is running.
