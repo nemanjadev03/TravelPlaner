@@ -26,9 +26,7 @@ npm start
 
 4. Open http://localhost:3000 and login `admin@example.com` / `admin123` (from seed).
 
-📦 What’s Inside
-
-🔐 Authentication & Security
+Authentication & Security
 
 JWT-based authentication
 
@@ -36,7 +34,7 @@ JOI validation for request bodies
 
 RBAC (Role-Based Access Control) with separate admin/user capabilities
 
-🏙 Cities & Routes Management
+Cities & Routes Management
 
 Full CRUD for Cities and Routes
 
@@ -52,7 +50,7 @@ distance
 
 additional metadata
 
-📊 D3 Graph Visualization
+D3 Graph Visualization
 
 Interactive graph rendering of all cities and routes
 
@@ -62,7 +60,7 @@ Clicking nodes shows city details
 
 Clicking edges shows route details
 
-🧭 Dijkstra Shortest Path
+Dijkstra Shortest Path
 
 Backend algorithm calculates shortest path between any two cities
 
@@ -74,7 +72,7 @@ pathNames (decoded city/route names)
 
 distance (total cost)
 
-🎨 Modern UI (Tailwind)
+Modern UI (Tailwind)
 
 Tailwind-based responsive design
 
@@ -84,7 +82,7 @@ Admin interface for adding/editing Cities and Routes
 
 Intuitive form for creating new routes between cities
 
-🧱 Tech Stack
+Tech Stack
 
 Frontend
 
